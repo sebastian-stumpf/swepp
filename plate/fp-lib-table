@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "sepp")(type "KiCad")(uri "${KIPRJMOD}/../pcb/sepp/sepp.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-xp-plate-mx")(type "KiCad")(uri "${KIPRJMOD}/../pcb/marbastlib/footprints/marbastlib-xp-plate-mx.pretty")(options "")(descr ""))
+)
